@@ -1,0 +1,1 @@
+console.log("Created using https://rahul-vashishtha/npm-package-template");
