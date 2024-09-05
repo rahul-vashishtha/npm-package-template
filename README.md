@@ -100,8 +100,3 @@ For any bugs or issues, please open a new issue on the [GitHub Issues](https://g
 ---
 
 Feel free to modify and use this template to kickstart your npm package development!
-
-```
-
-This README provides a comprehensive overview of your npm package template, including setup instructions, features, and guidelines for contributing.
-```
